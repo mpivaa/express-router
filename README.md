@@ -1,4 +1,4 @@
-express-router
-==============
+node-routes
+===========
 
-Rails like router DSL
+Node Routes DSL + Controllers
